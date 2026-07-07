@@ -686,3 +686,17 @@ font-family:'Cormorant Garamond',serif;
 color:#6d0f28;
 
 }
+@media (max-width: 768px) {
+
+.hero{
+    height: auto;
+    min-height: 100vh;
+
+    background-size: contain;
+    background-position: center top;
+    background-repeat: no-repeat;
+
+    background-color: #f8f3ee;
+}
+
+}
