@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet"
+href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+
+<title>Алибий & Илина | 07.08.2026</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="music-btn">
+🎵 Музыка
+</div>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>Алибий & Илина</h1>
+
+<div class="hero-date">
+07 августа 2026
+</div>
+
+<div class="hero-text">
+Один день. Одно сердце. Одна история на двоих.
+</div>
+
+<a href="#rsvp" class="btn">
+Подтвердить присутствие
+</a>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="container">
+
+<h2 class="title">
+Дорогие наши друзья!
+</h2>
+
+<div class="invite-text">
+
+<p>
+В нашей жизни наступает особенный день — день, когда мы соединяем свои сердца и начинаем новую семейную историю.
+</p>
+
+<p>
+Мы будем счастливы разделить этот важный момент именно с вами — людьми, которые занимают особое место в нашей жизни.
+</p>
+
+<p>
+Приглашаем вас стать частью нашего праздника любви, счастья и новых начинаний.
+</p>
+
+<p>
+С любовью,<br>
+Илина и Алибий
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="calendar-section">
+
+<div class="container">
+
+<h2 class="title white">
+Дата свадьбы
+</h2>
+
+<div class="calendar-card">
+
+<div class="month">
+Август 2026
+</div>
+
+<div class="calendar-grid">
+
+<div class="weekday">Пн</div>
+<div class="weekday">Вт</div>
+<div class="weekday">Ср</div>
+<div class="weekday">Чт</div>
+<div class="weekday">Пт</div>
+<div class="weekday">Сб</div>
+<div class="weekday">Вс</div>
+
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+
+<div>1</div>
+<div>2</div>
+
+<div>3</div>
+<div>4</div>
+<div>5</div>
+<div>6</div>
+
+<div class="heart-date">
+    <svg viewBox="0 0 100 90">
+        <path
+            d="M50 82
+               L12 45
+               C-5 28 5 0 30 0
+               C42 0 50 10 50 10
+               C50 10 58 0 70 0
+               C95 0 105 28 88 45
+               Z"
+            fill="none"
+            stroke="white"
+            stroke-width="3"/>
+    </svg>
+
+    <span>7</span>
+</div>
+
+<div>8</div>
+<div>9</div>
+
+<div>10</div>
+<div>11</div>
+<div>12</div>
+<div>13</div>
+<div>14</div>
+<div>15</div>
+<div>16</div>
+
+<div>17</div>
+<div>18</div>
+<div>19</div>
+<div>20</div>
+<div>21</div>
+<div>22</div>
+<div>23</div>
+
+<div>24</div>
+<div>25</div>
+<div>26</div>
+<div>27</div>
+<div>28</div>
+<div>29</div>
+<div>30</div>
+
+<div>31</div>
+
+</div>
+
+<div class="countdown">
+
+<div class="time-box">
+<span id="days">0</span>
+Дней
+</div>
+
+<div class="time-box">
+<span id="hours">0</span>
+Часов
+</div>
+
+<div class="time-box">
+<span id="minutes">0</span>
+Минут
+</div>
+
+<div class="time-box">
+<span id="seconds">0</span>
+Секунд
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<div class="photo-block"></div>
+
+<section>
+
+<div class="container location">
+
+<h2 class="title">
+Место проведения
+</h2>
+
+<p>
+📍 г. Уфа, ул. Юрия Гагарина, 6
+</p>
+
+<a
+class="btn"
+target="_blank"
+href="https://yandex.ru/maps/?text=Уфа Юрия Гагарина 6">
+Построить маршрут
+</a>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="container">
+
+<h2 class="title">
+Программа дня
+</h2>
+
+<div class="timeline">
+
+<div class="schedule-item">
+
+<div class="schedule-time">
+16:00
+</div>
+
+<div class="schedule-content">
+Сбор гостей, фотосессия, фуршет
+</div>
+
+</div>
+
+<div class="schedule-item">
+
+<div class="schedule-time">
+17:00
+</div>
+
+<div class="schedule-content">
+Начало банкета
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="rsvp">
+
+<div class="container">
+
+<h2 class="title">
+RSVP
+</h2>
+
+<div class="rsvp">
+
+<input type="text" placeholder="Имя и фамилия">
+
+<select>
+<option>Будете присутствовать?</option>
+<option>Да</option>
+<option>Нет</option>
+</select>
+
+<input type="tel" placeholder="Телефон">
+
+<textarea rows="5"
+placeholder="Пожелания"></textarea>
+
+<button>
+Отправить
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<h2>
+С нетерпением ждём встречи с вами ❤️
+</h2>
+
+<p>
+Илина и Алибий
+</p>
+
+</footer>
+
+<audio id="music" autoplay loop>
+<source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<script src="script.js"></script>
+
+</body>
+</html>
